@@ -1,0 +1,5 @@
+server:
+  port: 62100
+spring:
+  application:
+    name: nebula-position
